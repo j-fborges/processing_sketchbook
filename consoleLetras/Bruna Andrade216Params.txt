@@ -1,0 +1,92 @@
+texto: Bruna Andrade
+Caracter 0: --B--
+     fontIndex: 416
+     xOffSet: 0.0
+     yOffSet: 0.0
+     charSize: 64.0
+
+
+Caracter 1: --r--
+     fontIndex: 259
+     xOffSet: 0.0
+     yOffSet: 0.0
+     charSize: 64.0
+
+
+Caracter 2: --u--
+     fontIndex: 234
+     xOffSet: 0.0
+     yOffSet: 0.0
+     charSize: 64.0
+
+
+Caracter 3: --n--
+     fontIndex: 952
+     xOffSet: 0.0
+     yOffSet: 0.0
+     charSize: 64.0
+
+
+Caracter 4: --a--
+     fontIndex: 716
+     xOffSet: 0.0
+     yOffSet: 0.0
+     charSize: 64.0
+
+
+Caracter 5: -- --
+     fontIndex: 897
+     xOffSet: 0.0
+     yOffSet: 0.0
+     charSize: 64.0
+
+
+Caracter 6: --A--
+     fontIndex: 838
+     xOffSet: 0.0
+     yOffSet: 0.0
+     charSize: 64.0
+
+
+Caracter 7: --n--
+     fontIndex: 138
+     xOffSet: 0.0
+     yOffSet: 0.0
+     charSize: 64.0
+
+
+Caracter 8: --d--
+     fontIndex: 472
+     xOffSet: 0.0
+     yOffSet: 0.0
+     charSize: 64.0
+
+
+Caracter 9: --r--
+     fontIndex: 653
+     xOffSet: 0.0
+     yOffSet: 0.0
+     charSize: 64.0
+
+
+Caracter 10: --a--
+     fontIndex: 605
+     xOffSet: 0.0
+     yOffSet: 0.0
+     charSize: 64.0
+
+
+Caracter 11: --d--
+     fontIndex: 210
+     xOffSet: 0.0
+     yOffSet: 0.0
+     charSize: 64.0
+
+
+Caracter 12: --e--
+     fontIndex: 73
+     xOffSet: 0.0
+     yOffSet: 0.0
+     charSize: 64.0
+
+
