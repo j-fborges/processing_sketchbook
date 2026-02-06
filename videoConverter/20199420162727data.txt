@@ -1,0 +1,16 @@
+maxDur = 38.730843
+cutN: 1.0cutPoint: 17.709267
+cutN: 2.0cutPoint: 5.3356795
+cutN: 3.0cutPoint: 2.1886506
+cutN: 4.0cutPoint: 2.9579842
+cutN: 5.0cutPoint: 33.186176
+cutN: 6.0cutPoint: 28.594284
+cutN: 7.0cutPoint: 24.353495
+cutN: 8.0cutPoint: 5.878418
+cutN: 9.0cutPoint: 23.995892
+cutN: 10.0cutPoint: 24.292316
+cutN: 11.0cutPoint: 14.978097
+cutN: 12.0cutPoint: 19.790224
+cutN: 13.0cutPoint: 23.173748
+cutN: 14.0cutPoint: 10.447412
+cutN: 15.0cutPoint: 27.36913

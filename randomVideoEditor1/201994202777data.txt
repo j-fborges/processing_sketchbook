@@ -1,0 +1,16 @@
+maxDur = 38.730843
+cutN: 1cutPoint: 21.54671realcutPoint: 21.518906
+cutN: 2cutPoint: 1.7532192realcutPoint: 1.732172
+cutN: 3cutPoint: 24.417368realcutPoint: 24.416962
+cutN: 4cutPoint: 33.526997realcutPoint: 33.510868
+cutN: 5cutPoint: 13.841315realcutPoint: 13.824065
+cutN: 6cutPoint: 15.132719realcutPoint: 15.123195
+cutN: 7cutPoint: 8.592766realcutPoint: 8.560927
+cutN: 8cutPoint: 33.612125realcutPoint: 33.610798
+cutN: 9cutPoint: 0.41043052realcutPoint: 0.399732
+cutN: 10cutPoint: 8.906189realcutPoint: 8.894037
+cutN: 11cutPoint: 3.6318383realcutPoint: 3.630899
+cutN: 12cutPoint: 19.18867realcutPoint: 19.187136
+cutN: 13cutPoint: 30.671314realcutPoint: 30.64612
+cutN: 14cutPoint: 16.173864realcutPoint: 16.155836
+cutN: 15cutPoint: 26.675352realcutPoint: 26.6488
